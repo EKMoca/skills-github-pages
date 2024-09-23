@@ -1,5 +1,5 @@
 ---
-title: "A discourse on finding meaning in a dopamine depleted world." Art
+title: Art. A discourse on finding meaning in a dopamine depleted world. 
 ---
 
 ``` python
