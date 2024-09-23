@@ -1,6 +1,7 @@
 ---
-title: Art... A discourse on finding meaning in a dopamine depleted world. 
+title: A discourse on finding meaning in a dopamine depleted world. 
 ---
+# Art. 
 
 ``` python
 print('How blurred is the line between subjectivity and objectivity?')
